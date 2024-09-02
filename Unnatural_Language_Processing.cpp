@@ -1,7 +1,7 @@
 // Author : Zhenzhe
 // Time : 2024/07/19
 // Problem : https://codeforces.com/contest/1915/problem/D
-// Class : String , Syntax
+// Class : String,Syntax
 #include <bits/stdc++.h>
 #define int int64_t
 #define FASTIO ios_base::sync_with_stdio(0);cin.tie(0)
