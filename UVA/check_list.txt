@@ -1,3 +1,6 @@
 00722 Lakes
 00536 Tree Recovery
 00748 Exponentitation
+10020 Minimal Coverage
+10028 Fast Page Rank
+10098
