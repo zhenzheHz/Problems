@@ -4,3 +4,14 @@
 10020 Minimal Coverage
 10028 Fast Page Rank
 10098
+10142
+10161
+00122
+10176
+10196 essential!!!!!!
+10200
+10267
+10298 rolling hash / KMP 
+10299
+10494 Big number
+11475 Palindrome
