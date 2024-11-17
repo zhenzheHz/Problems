@@ -1,17 +1,18 @@
-00722 Lakes
-00536 Tree Recovery
-00748 Exponentitation
-10020 Minimal Coverage
-10028 Fast Page Rank
-10098
-10142
-10161
-00122
-10176
-10196 essential!!!!!!
-10200
-10267
+00722 Lakes (Pr : Input)
+00536 Tree Recovery(Pr : Tree 前序)
+00748 Exponentitation (Pr : Big number multiple)
+10020 Minimal Coverage (Pr : Greedy)
+10028 Fast Page Rank (???)
+10142 (Pr : Input Format)
+10161 (Pr : Complex)
+00122 (Pr : Tree, Hard)
+10176 (Pr : Big number division)
+10196 (Pr : 實作題)
 10298 rolling hash / KMP 
-10299
+10299 (Pr : Math theory)
 10494 Big number
-11475 Palindrome
+11538 Math
+11730 (Pr : Graph)
+11879 (Pr : Big number)
+
+
