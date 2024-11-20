@@ -15,9 +15,6 @@ template<typename T>
 T cross(pair<T,T> a,pair<T,T> b) {
     return a.x*b.y-a.y*b.x;
 }
-int conv(int V) {
-    return V>0? 1 : -1;
-}
 void solve() {
     Point a,b,c,d;
     cin >> a.x >> a.y;
@@ -33,7 +30,7 @@ void solve() {
         //     return cout<<"YES\n",void();
     }
     else if(cross(AB,AC) <= 0 && cross(AB,AD) >= 0) {
-        if(cross(CD,CA) >=0 * cross(CD,CB) <= 0)
+        if(cross(CD,CA)  * cross(CD,CB) <= 0)
             return cout<<"YES\n",void();
         // if(cross(CD,CA) <= 0 && cross(CD,CB) >= 0)
         //     return cout<<"YES\n",void();
